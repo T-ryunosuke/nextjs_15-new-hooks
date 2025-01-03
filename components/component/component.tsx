@@ -209,7 +209,7 @@ export function Component() {
               </div>
               <div className="space-y-2">
                 <p>
-                  Enjoying the beautiful weather today! Who's up for a hike
+                  Enjoying the beautiful weather today! Who&apos;s up for a hike
                   later?
                 </p>
               </div>
